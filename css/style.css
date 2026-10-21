@@ -1,0 +1,31 @@
+h1 {
+  color: blue;
+  font-size: 20 px;
+}
+p {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+#orange {
+  color: orange;
+}
+
+section {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.hero {
+  background-image: url(../images/bread1.jpg);
+  text-align: center;
+  padding-top: center;
+}
+
+div {
+  border: 1px solid;
+}
